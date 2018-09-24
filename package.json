@@ -1,0 +1,11 @@
+{
+  "name": "jest-notes",
+  "version": "1.0.0",
+  "description": "*Jest *[Cyprus](http://www.cypress.com/documentation/software-and-drivers/free-and-open-source-software-download-page)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
