@@ -11,6 +11,7 @@ function _fibNum (num) {
 
 const _getFibNum = (num) => {
     _fibNums[num] = _fibNum(num)
+    return _fibNums[num]
 }
 
 exports.getFibNum = _getFibNum
